@@ -2,4 +2,4 @@ guru
 ====
 
 my first repository
-I love :coffe:, :pizza:, and :dancer:.
+I love :coffee:, :pizza:, and :dancer:.
